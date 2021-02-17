@@ -156,6 +156,12 @@ body {
   color: #35465d;
 }
 
+.thirdtitle {
+    line-height: 1.53;
+    text-align: center;
+    color: #35465d;
+}
+
 /* On screens that are 600px or less, set the background color to olive */
 @media screen and (max-width: 600px) {
   html {
@@ -184,6 +190,10 @@ body {
 
 .youtube-icon{
     width:8%;
+    float:left;
+    margin-right: 20px;
+    margin-top:-1%;
+    clear:both;
 }
 
 
