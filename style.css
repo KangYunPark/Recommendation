@@ -217,57 +217,215 @@ body {
 }
 
 
- /* .오차드.로드-box {
- position: absolute;
+ .오차드.로드-box {
+ position: relative;
   top: 0;
   left: 0;
-  height: 2rem;
+  height: 1.5rem;
   border-radius: 10px;
-  width: 100%;
+  width: 80%;
   background-color: rgba(117, 204, 84, 0.2);
-}  */
+} 
 
-/* .오차드.로드-bar {
+.오차드.로드-bar {
   position: absolute;
   top: 0;
   left: 0;
-  height: 2rem;
+  height: 1.5rem;
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
-} */
+}
 
- /* .헝가리-box { 
- position: absolute;
+.헝가리-box { 
+ position: relative;
   top: 0;
   left: 0;
-  height: 2rem;
+  height: 1.5rem;
   border-radius: 10px;
-  width: 100%;
+  width: 80%;
   background-color: rgba(117, 204, 84, 0.2);
 } 
  .헝가리-bar { 
   position: absolute;
   top: 0;
   left: 0;
-  height: 2rem;
+  height: 1.5rem;
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
-} */
+} 
 
-/* .오스트리아-box {
-    position: absolute;
-    top:0;
-    left:0;
-    height:1rem;
-    border-radius:10px;
-    background-color : rgba(117,204,84,1);
+.오스트리아-box {
+position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);
 }
 
-. 오스트리아-bar { 
+
+ .오스트리아-bar { 
   position: absolute;
   top: 0;
   left: 0;
-  height: 2rem;
+  height: 1.5rem;
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
-}  */
+} 
+
+.뉴욕-box {
+    position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+ .뉴욕-bar { 
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.감라스탄-box {
+        position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+.감라스탄-bar {
+      position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.오페라.하우스-box {
+    position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.오페라.하우스-bar {
+      position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+.카마리.비치-box{position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+.카마리.비치-bar{
+    position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+.글립토테크.미술관-box{
+position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);}
+.글립토테크.미술관-bar{
+        position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+.메르데카.광장-box{
+position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+.메르데카.광장-bar{
+        position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);    
+}
+.네덜란드.홀랜드.카지노-box{
+position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);    
+}
+.네덜란드.홀랜드.카지노-bar{
+        position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);    
+}
+.블루라곤.온천-box{
+position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);        
+}
+.블루라곤.온천-bar{
+        position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);        
+}
+.마드리드.거리-box {
+position: relative;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgba(117, 204, 84, 0.2);    
+}
+.마드리드.거리-bar{
+            position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
